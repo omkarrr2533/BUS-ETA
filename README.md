@@ -7,8 +7,6 @@
 
 A comprehensive real-time bus tracking system for Aurangabad, Maharashtra, featuring live GPS tracking, pathfinding algorithms, driver dashboards, and an AI-powered chatbot assistant.
 
-![CityBus Tracker](https://via.placeholder.com/800x400/ff6b6b/ffffff?text=CityBus+Tracker+Dashboard)
-
 ---
 
 ## 📑 Table of Contents
@@ -884,4 +882,5 @@ in the Software without restriction...
 [⬆ Back to Top](#-citybus-tracker---real-time-bus-tracking-system)
 
 </div>
+
 
