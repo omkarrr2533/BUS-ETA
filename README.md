@@ -77,7 +77,6 @@ A comprehensive real-time bus tracking system for Aurangabad, Maharashtra, featu
 ---
 
 ## 🛠️ Technology Stack
-
 ### Backend
 
 | Technology | Version | Purpose |
@@ -885,3 +884,4 @@ in the Software without restriction...
 [⬆ Back to Top](#-citybus-tracker---real-time-bus-tracking-system)
 
 </div>
+
