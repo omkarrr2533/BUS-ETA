@@ -66,12 +66,6 @@ A comprehensive real-time bus tracking system for Aurangabad, Maharashtra, featu
 - **Driver Dashboard**: `http://localhost:8089/driver`
 - **H2 Database Console**: `http://localhost:8089/h2-console`
 
-### Screenshots
-
-| Home Page | Tracking Page | Driver Dashboard |
-|-----------|--------------|------------------|
-| ![Home](https://via.placeholder.com/300x200) | ![Tracking](https://via.placeholder.com/300x200) | ![Driver](https://via.placeholder.com/300x200) |
-
 ---
 
 ## 🛠️ Technology Stack
@@ -882,5 +876,6 @@ in the Software without restriction...
 [⬆ Back to Top](#-citybus-tracker---real-time-bus-tracking-system)
 
 </div>
+
 
 
