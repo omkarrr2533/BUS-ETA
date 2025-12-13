@@ -871,11 +871,12 @@ in the Software without restriction...
 
 <div align="center">
 
-**Made with ❤️ by the CityBus Team**
+**Made ❤️ by Om Kapale**
 
 [⬆ Back to Top](#-citybus-tracker---real-time-bus-tracking-system)
 
 </div>
+
 
 
 
