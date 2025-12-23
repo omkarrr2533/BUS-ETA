@@ -96,9 +96,7 @@ public class CommunityFeaturesService {
         return response;
     }
 
-    /**
-     * Report bus condition
-     */
+   
     public Map<String, Object> reportBusCondition(String userId, String busId,
                                                   String vehicleId, Map<String, Object> ratings) {
         String reportId = "COND-" + UUID.randomUUID().toString().substring(0, 8);
