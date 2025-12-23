@@ -13,7 +13,7 @@ public class CommunityFeaturesService {
     // Lost & Found tracking
     private Map<String, LostItemReport> lostItems = new ConcurrentHashMap<>();
 
-    // Bus condition reports
+  
     private Map<String, List<BusConditionReport>> busConditionReports = new ConcurrentHashMap<>();
 
     // System issue flags
